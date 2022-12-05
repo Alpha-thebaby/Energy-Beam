@@ -1,0 +1,9 @@
+{
+  "attributes": [
+    {
+      "attribute" : "spelldamage:frost",
+      "operation" : "MULTIPLY_BASE",
+      "value": 0.1
+    }
+  ]
+}
